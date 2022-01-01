@@ -1,0 +1,8 @@
+[INFO ] 2022-01-01 19:04:49,211 FilterApplication.logStarting() - Starting FilterApplication using Java 1.8.0_172 on DESKTOP-GN0170R with PID 7096 (D:\paysyslabssmarttowerlearn\SPRINGBOOT\filter\target\classes started by Intel in D:\paysyslabssmarttowerlearn\SPRINGBOOT\filter)
+[INFO ] 2022-01-01 19:04:49,216 FilterApplication.logStartupProfileInfo() - No active profile set, falling back to default profiles: default
+[INFO ] 2022-01-01 19:04:49,922 TomcatWebServer.initialize() - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2022-01-01 19:04:49,992 ServletWebServerApplicationContext.prepareWebApplicationContext() - Root WebApplicationContext: initialization completed in 727 ms
+[INFO ] 2022-01-01 19:04:50,272 TomcatWebServer.start() - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2022-01-01 19:04:50,279 FilterApplication.logStarted() - Started FilterApplication in 1.327 seconds (JVM running for 1.868)
+[INFO ] 2022-01-01 19:05:09,011 DispatcherServlet.initServletBean() - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2022-01-01 19:05:09,012 DispatcherServlet.initServletBean() - Completed initialization in 1 ms

@@ -1,0 +1,22 @@
+[INFO ] 2022-01-01 19:04:40,489 FilterApplication.logStarting() - Starting FilterApplication using Java 1.8.0_172 on DESKTOP-GN0170R with PID 12312 (D:\paysyslabssmarttowerlearn\SPRINGBOOT\filter\target\classes started by Intel in D:\paysyslabssmarttowerlearn\SPRINGBOOT\filter)
+[INFO ] 2022-01-01 19:04:40,516 FilterApplication.logStartupProfileInfo() - No active profile set, falling back to default profiles: default
+[INFO ] 2022-01-01 19:04:41,206 TomcatWebServer.initialize() - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2022-01-01 19:04:41,269 ServletWebServerApplicationContext.prepareWebApplicationContext() - Root WebApplicationContext: initialization completed in 725 ms
+[WARN ] 2022-01-01 19:04:41,545 AnnotationConfigServletWebServerApplicationContext.refresh() - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+[INFO ] 2022-01-01 19:04:41,557 ConditionEvaluationReportLoggingListener.logMessage() - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR] 2022-01-01 19:04:41,568 LoggingFailureAnalysisReporter.report() - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
